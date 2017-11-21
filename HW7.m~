@@ -1,5 +1,4 @@
 %HW7
-%Sanjana Srinivasan
 
 % Problem 1: Modeling population growth
 % The simplest model for a growing population assumes that each current
@@ -126,5 +125,3 @@ for V = 0:0.05:5
         end
     end
 end
-hold off;
-
