@@ -53,6 +53,12 @@ for a = 0.1:0.1:4
     hold on;
     end
 end
+hold off;
+
+%there is an unstable growth in population with increasing values of the
+%population growth rate. Thre is an initual steady state followed by a gap
+%in the population size followed by an instability in the later values of
+%a.
 
 % Problem 2. Genetic toggle switches. 
 % Consider a genetic system of two genes A and B in which each gene
